@@ -51,15 +51,9 @@ color: #ffffff;
   gap: 64px;
 }
 
-#historia-experiencia{
-  display: flex;
-  flex-direction: column;
-}
-
 #historia-experiencia h1 {
   font-size: 35px;
   font-weight: 500;
-  line-height: 20px;
 }
 
 #historia-experiencia p {
